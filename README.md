@@ -1,5 +1,7 @@
 # Lumi Grocery - Liquid Glass Flutter UI
 
+> 🛒 A premium grocery shopping mobile app UI with iOS-inspired Liquid Glass design - frosted panels, translucent surfaces, and smooth animations built with Flutter.
+
 A premium grocery shopping mobile app UI built with Flutter. The design blends a fresh grocery marketplace experience with an iOS-inspired Liquid Glass visual style: frosted panels, translucent surfaces, soft reflections, floating controls, rounded navigation, and smooth depth-focused layouts.
 
 The app is a complete UI prototype for a luxury grocery marketplace, inspired by Apple Store, Instacart, Whole Foods, and Uber Eats.
