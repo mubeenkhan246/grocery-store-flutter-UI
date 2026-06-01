@@ -8,6 +8,28 @@ The app is a complete UI prototype for a luxury grocery marketplace, inspired by
 
 ## Preview
 
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.35.52.png" width="200" alt="Screenshot 1"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.50.58.png" width="200" alt="Screenshot 2"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.01.png" width="200" alt="Screenshot 3"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.07.png" width="200" alt="Screenshot 4"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.12.png" width="200" alt="Screenshot 5"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.14.png" width="200" alt="Screenshot 6"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.19.png" width="200" alt="Screenshot 7"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.22.png" width="200" alt="Screenshot 8"/>
+</div>
+
+<div align="center">
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.24.png" width="200" alt="Screenshot 9"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.27.png" width="200" alt="Screenshot 10"/>
+  <img src="screenshots/Simulator Screenshot - iPhone 17 Pro Max - 2026-06-01 at 13.51.37.png" width="200" alt="Screenshot 11"/>
+</div>
+
+## Running the App
+
 Run the project locally to explore the full mobile experience:
 
 ```bash
