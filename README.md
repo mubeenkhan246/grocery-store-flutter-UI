@@ -54,12 +54,12 @@ The UI uses reusable Liquid Glass components for a consistent premium feel:
 
 ## Tech Stack
 
-- Flutter
-- Dart
+- Flutter 3.x
+- Dart SDK: ^3.11.4
 - Material 3
 - Cupertino widgets
-- Riverpod for state management
-- GoRouter for navigation
+- Riverpod 2.6.1 for state management
+- GoRouter 14.8.1 for navigation
 
 ## Project Structure
 
@@ -81,13 +81,24 @@ lib/
   main.dart
 ```
 
+## Requirements
+
+- Flutter 3.x or higher
+- Dart SDK 3.11.4 or higher
+- iOS 12.0+ / Android 5.0+ (API level 21+)
+
 ## Getting Started
 
 Make sure Flutter is installed and available on your machine.
 
 ```bash
+# Check Flutter version
 flutter --version
+
+# Install dependencies
 flutter pub get
+
+# Run the app
 flutter run
 ```
 
