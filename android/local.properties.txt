@@ -1,0 +1,2 @@
+sdk.dir=D:\\flutter_setup\\sdk
+flutter.sdk=D:\\flutter_setup\\flutter\\flutter
